@@ -1,12 +1,12 @@
 ## PopcornTime for iOS
 
-**The servers are down, app doesn't work anymore :(**
+Working fork of **PopcornTime for iOS**
 
-[![Build Status](https://www.bitrise.io/app/9ee06c0598c7cbdb.svg?token=nH-7MkkoZ7EpSlvMce4KkA)](https://www.bitrise.io/app/9ee06c0598c7cbdb)
+Last checked 
 
-Version of PopcornTime app for iOS based on [libtorrent](http://www.libtorrent.org) and [MobileVLCKit](https://wiki.videolan.org/VLCKit/). There is still a lot of work to do, but in most cases it works.
+- Feb 2, 2016 :white_check_mark:
 
-### Screenshots
+Version of PopcornTime app for iOS based on [libtorrent](http://www.libtorrent.org) and [MobileVLCKit](https://wiki.videolan.org/VLCKit/).
 
 ![](https://raw.github.com/danylokostyshyn/popcorntime-ios/master/Screenshots/1.png)
 
@@ -19,7 +19,7 @@ Version of PopcornTime app for iOS based on [libtorrent](http://www.libtorrent.o
 This project uses [CocoaPods](http://cocoapods.org/).
 
 ``` bash
-$ git clone https://github.com/danylokostyshyn/popcorntime-ios.git
+$ git clone https://github.com/popcorntimeios/popcorntime-ios.git
 $ cd popcorntime-ios/
 $ pod install
 $ open PopcornTime.xcworkspace/

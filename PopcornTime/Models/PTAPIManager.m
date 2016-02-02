@@ -12,7 +12,7 @@
 
 NSUInteger const PTAPIManagerResultsLimit = 30;
 NSString *const PTAPIManagerMoviesEndPoint = @"http://api.torrentsapi.com/";
-NSString *const PTAPIManagerShowsEndPoint = @"https://mi2i2dospijuauxa.onion.to/";
+NSString *const PTAPIManagerShowsEndPoint = @"https://www.popcorntime.ws/api/eztv/";
 NSString *const PTAPIManagerAnimeEndPoint = @"http://ptp.haruhichan.com";
 
 @implementation PTAPIManager
